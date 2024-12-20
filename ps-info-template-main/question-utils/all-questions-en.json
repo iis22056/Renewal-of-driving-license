@@ -1,0 +1,52 @@
+[
+    {
+        "id": 0,
+        "question": "Do you hold a valid Greek or EU Member State driving license?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 1,
+        "question": "In which age group do you belong?",
+        "options": [
+            "18-80 years old",
+            "Over 80 years old",
+            "Under 18 years old"
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Which of the following categories do you belong to?",
+        "options": [
+            "Permanent resident of Greece",
+            "Student or Pupil in Greece for at least 6 months",
+            "I am not a Greek citizen"
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Have you updated your personal details (such as name, surname, address) since the last time you issued/renewed your driving license?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 4,
+        "question": "Do you wish to complete the process in the Metropolitan Unit of Thessaloniki?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 5,
+        "question": "Do you wish to have your blood type listed on your driving license?",
+        "options": ["Yes", "No"]
+    },
+    {
+        "id": 6,
+        "question": "For the renewal of your driving license, please select the category that best describes your situation:",
+        "options": [
+            "I am a driver of category C1, C1E, C, CE, D1, D1E, D, or DE and wish to renew without a Professional Competence Certificate (P.E.I.) as I fall under an exception (paragraphs 3, 4, or 5 of Article 3 of p.d. 74/2008).",
+            "I am a driver of category C1, C1E, C, or CE and have reached the age of 62.",
+            "I am a driver of category D1, D1E, D, or DE and have reached the age of 60.",
+            "I do not fall under any of the above exceptions and need to obtain/renew a Professional Competence Certificate (P.E.I.).",
+            "I do not belong to any of the above categories."
+        ]
+    }
+    
+]
