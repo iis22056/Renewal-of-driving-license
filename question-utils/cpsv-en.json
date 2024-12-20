@@ -1,0 +1,196 @@
+{
+    "PublicService": {
+        "name": "Renewal of Driver's License (all categories)",
+        "evidence": [
+            {   
+                "id": 1,
+                "evs": [ 
+                    {
+                        "id": "ev0003",
+                        "type": "Evidence",
+                        "name": "One (1) recent passport-style photograph.",
+                        "description": "One (1) recent passport-style photograph."
+                    },
+                    {
+                        "id": "ev0001",
+                        "type": "Evidence",
+                        "name": "Driver's License Printing Application.",
+                        "description": "The driver's license printing application must be signed only by the license holder and not by an authorized representative. This is not required in the digital process."
+                    },
+                    {
+                        "id": "ev0007",
+                        "type": "Evidence",
+                        "name": "Printout of the Electronic Fees",
+                        "description": "(the document marked 'For use by the agency') mentioned under the COST subcategory."
+                    }
+                ]
+            },
+            {   
+                "id": 2,
+                "evs": [
+                    {
+                        "id": "ev0002",
+                        "type": "Evidence",
+                        "name": "Photocopy of a police ID card or valid Greek passport",
+                        "description": "If the applicant holds the citizenship of another EU member state, they must submit a photocopy of their ID card or passport, while third-country nationals are required to provide a photocopy of a passport or other document."
+                    }
+                ]
+            },
+            {   
+                "id": 3,
+                "evs": [
+                    {
+                        "id": "ev0008",
+                        "type": "Evidence",
+                        "name": "Original certificate from the school or educational institution confirming student or pupil status.",
+                        "description": "If the applicant is a foreign national and has the status of a student or pupil in Greece for at least six (6) months prior."
+                    },
+                    {
+                        "id": "ev0005",
+                        "type": "Evidence",
+                        "name": "Declaration of Responsibility stating: - That the applicant has habitual residence in Greece or has been a student or pupil in Greece for at least six (6) months prior to the date of application submission and supporting documents.",
+                        "description": "- Their full residential address details. - Their Tax Identification Number (TIN). - That they do not hold another driver's license from Greece or an EU member state, nor has one been revoked by any authority other than the one they are applying for renewal from."
+                    }
+                ]
+            },
+            {   
+                "id": 4,
+                "evs": [
+                    {
+                        "id": "ev0003",
+                        "type": "Evidence",
+                        "name": "Simple photocopy of any valid public document certifying the applicant's habitual residence in Greece.",
+                        "description": "A residence document issued at least 185 days before the application is required. If it is more recent, two additional proofs are needed, such as tax records or utility bills."
+                    }
+                ]
+            },
+            {   
+                "id": 5,
+                "evs": [
+                    {
+                        "id": "ev0004",
+                        "type": "Evidence",
+                        "name": "At least two (2) health certificates from medical examinations: one from a General Practitioner and one from an Ophthalmologist.",
+                        "description": "At least two (2) health certificates from medical examinations: one from a General Practitioner and one from an Ophthalmologist."
+                    }
+                ]
+            },
+            {   
+                "id": 6,
+                "evs": [
+                    {
+                        "id": "ev0004",
+                        "type": "Evidence",
+                        "name": "Four (4) health certificates from medical examinations: one from a General Practitioner, one from an Ophthalmologist, one from an nose and throat specialist, and one from a Neurologist.",
+                        "description": "Four (4) health certificates from medical examinations: one from a General Practitioner, one from an Ophthalmologist, one from an Otolaryngologist, and one from a Neurologist."
+                    }
+                ]
+            },
+            {   
+                "id": 7,
+                "evs": [
+                    {
+                        "id": "ev0012",
+                        "type": "Evidence",
+                        "name": "Photocopy of a document certifying personal details.",
+                        "description": "This is required if there is a discrepancy between the applicant's information on the old driver's license and the identification document provided."
+                    }
+                ]
+            },
+            {   
+                "id": 8,
+                "evs": [
+                    {
+                        "id": "ev0010",
+                        "type": "Evidence",
+                        "name": "Proof of payment of a €3 Service Fee to the account with IBAN: GR 83 0171 2150 0062 1503 0024 179 of the Region of Central Macedonia for processing in the Metropolitan Area of Thessaloniki.",
+                        "description": "Proof of payment of a €3 Service Fee to the account with IBAN: GR 83 0171 2150 0062 1503 0024 179 of the Region of Central Macedonia for processing in the Metropolitan Area of Thessaloniki."
+                    }
+                ]
+            },
+            {   
+                "id": 9,
+                "evs": [
+                    {
+                        "id": "ev0011",
+                        "type": "Evidence",
+                        "name": "Proof of the applicant's blood type.",
+                        "description": "Copy of a document from a Public Hospital, Private Microbiology Laboratory, Police ID, or Military Discharge Certificate showing the blood type."
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "evs": [
+                    {
+                        "id": "ev0009",
+                        "type": "Evidence",
+                        "name": "Supplementary Declaration of Responsibility, stating that you fall under an exemption (paragraphs 3, 4, or 5 of Article 3 of p.d. 74/2008).",
+                        "description": "Renewal of driver's licenses in categories C and D requires a Certificate of Professional Competence (CPC), unless exceptions apply, which must be stated in a declaration of responsibility. For drivers over 60 or 62 years of age, an additional declaration of compliance with Law 4850/2021 is required."
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "evs": [
+                    {
+                        "id": "ev0014",
+                        "type": "Evidence",
+                        "name": "Supplementary Responsible Declaration stating that you have acknowledged the provisions of Article 41 of Law 4850/2021.",
+                        "description": "The renewal of driving licenses for categories C and D requires a Professional Competence Certificate (P.E.I.), unless exemptions apply, which must be declared through a responsible declaration. For drivers over the age of 60 or 62, an additional declaration of compliance with Law 4850/2021 is required."
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "evs": [
+                    {
+                        "id": "ev0015",
+                        "type": "Evidence",
+                        "name": "Issuance/Renewal of Professional Competence Certificate (P.E.I.).",
+                        "description": "The renewal of driving licenses for categories C and D requires a Professional Competence Certificate (P.E.I.)."
+                    }
+                ]
+            }
+            
+        ],
+        "criterion_requirments": [
+            {
+                "id": "cr0001",
+                "name": "Greek nationality"
+            },
+            {
+                "id": "cr0002",
+                "name": "Nationals of EU member states and countries of the European Economic Area (EEA)"
+            },
+            {
+                "id": "cr0003",
+                "name": "Nationals of countries included in the European Convention ratified by Law 4017/1959 (Official Gazette 246/59, vol. A)"
+            },
+            {
+                "id": "cr0004",
+                "name": "Citizens of third countries who became unable to work due to an occupational accident in Greek territory, or are family members of a Greek or EU citizen, as defined in Article 20, paragraph 2 of Presidential Decree 106/2007 (A' 135), Article 85, paragraph 4 of Law 4251/2014 (A' 80), and Article 31, paragraph 1 of Law 4540/2018 (A' 91)"
+            },
+            {
+                "id": "cr0005",
+                "name": "Recognized refugees permanently residing in Greece, whose residence status in Greece is governed by the provisions of the 1951 Refugee Convention (Law 3989/1959, Official Gazette A' 201), as amended by the 1967 New York Protocol (Law 389/1968, Official Gazette A' 125), beneficiaries of subsidiary protection, and those under residence status for humanitarian reasons"
+            },
+            {
+                "id": "cr0006",
+                "name": "Permanently and legally residing in Greece"
+            },
+            {
+                "id": "cr0007",
+                "name": "Have a disability rate of at least 67% or are beneficiaries of disability welfare benefits granted by OPEKA"
+            },
+            {
+                "id": "cr0008",
+                "name": "Their annual total declared individual income does not exceed €23,000, or their annual total declared family income does not exceed €29,000 (the €29,000 family income threshold is increased by €5,600 for each additional dependent residing with the taxpayer with a disability of 67% or more). Financial amounts granted by OPEKA as disability benefits are not included in the income limits."
+            },
+            {
+                "id": "cr0009",
+                "name": "Those who are totally blind (Law 958/1979, A'191) and their companions are exempt from the income criteria outlined above, as specified by Decision 445/98 of the Council of State's Suspension Committee and receive a travel card regardless of their income limit."
+            }
+        ]
+    }
+}

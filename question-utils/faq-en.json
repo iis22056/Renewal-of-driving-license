@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "question": "How much does the renewal of a driver's license (all categories) cost?",
+        "answer": "The cost is 105€."
+    },
+    {
+        "id": 1,
+        "question": "How early can I apply for the renewal of my driver's license?",
+        "answer": "You can request the renewal of your Greek driver's license up to 2 months before its expiration. You can also submit an application after its expiration, provided you do not drive any vehicle in the meantime."
+    },
+    {
+        "id": 2,
+        "question": "What is the validity period of the driver's license?",
+        "answer": "The driver's license is valid for 15 years."
+    },
+    {
+        "id": 3,
+        "question": "Is the driver's license renewal process available online?",
+        "answer": "Yes, it is available online. You can visit https://www.gov.gr/regions/periphereia-kretes/periphereia-kretes/ananeose-adeias-odegeses"
+    }
+]
